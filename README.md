@@ -36,6 +36,7 @@ Here the If element is called **antecedent**, and then statement is called as **
 
 ### Eclat [Code](https://github.com/anupam215769/Association-Rule-Learning-ML/blob/main/Eclat/eclat.ipynb) OR <a href="https://colab.research.google.com/github/anupam215769/Association-Rule-Learning-ML/blob/main/Eclat/eclat.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
+> Don't forget to add Required Data files in colab. Otherwise it won't work.
 
 
 ## Apriori
@@ -56,3 +57,27 @@ Eclat algorithm is data mining algorithm which is used to find frequent items. A
 This vertical approach of the ECLAT algorithm makes it a faster algorithm than the Apriori (but sometimes when intermediate results of vertical tid lists become too large for memory, thus affecting the algorithm scalability). In Apriori algorithm we need to scan database again and again for finding frequent itemsets, this limitation is reduced by using vertical dataset in Eclat. Eclat needs to scan the database only once.
 
 ![img](https://i.imgur.com/rIVRLxD.png)
+
+## Related Repositories
+
+### [Data Preprocessing](https://github.com/anupam215769/Data-Preprocessing-ML)
+
+### [Regression](https://github.com/anupam215769/Regression-ML)
+
+### [Classification](https://github.com/anupam215769/Classification-ML)
+
+### [Clustering](https://github.com/anupam215769/Clustering-ML)
+
+### [Reinforcement Learning](https://github.com/anupam215769/Reinforcement-Learning-ML)
+
+## Credit
+
+**Coded By**
+
+[Anupam Verma](https://github.com/anupam215769)
+
+<a href="https://github.com/anupam215769/Association-Rule-Learning-ML/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=anupam215769/Association-Rule-Learning-ML" />
+</a>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
